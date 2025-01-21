@@ -1,0 +1,1 @@
+# 8.Factorial-of-number-using-for-loop
